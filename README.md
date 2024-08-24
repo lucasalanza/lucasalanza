@@ -10,7 +10,6 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I am actively studying English and working on projects that push me forward.<br />
 - 🤝 I am always open to making new connections and sharing my story.<br />
 - 📱 Check out my app: [Eu Nunca - Play Store](https://play.google.com/store/apps/details?id=com.eununca.eununca_app) <br />
-- 🌐 Visit my GitHub for more information: [Lucas Lanza on GitHub](https://github.com/lucasalanza)
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
